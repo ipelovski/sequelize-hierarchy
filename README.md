@@ -1,3 +1,6 @@
+#### This fork makes Sequelize Hierarchy compatible with Sequelize v.3
+Tests pass for postgres.
+
 # sequelize-hierarchy.js
 
 # Nested hierarchies for Sequelize
@@ -25,7 +28,7 @@ This plugin for [Sequelize](http://sequelizejs.com/) solves this problem.
 
 API is stable. All features and options are fairly well tested. Works with all dialects of SQL supported by Sequelize (MySQL, Postgres, SQLite, Microsoft SQL Server).
 
-Requires Sequelize v2.0.0 or later.
+Requires Sequelize v3.0.0 or later.
 
 ## Usage
 
